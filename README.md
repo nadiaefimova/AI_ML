@@ -1,2 +1,2 @@
 # AI_ML
-AI, Machine Learning, Deep Learning Projects
+The repo contains a code for AI, Machine Learning, Deep Learning Projects
